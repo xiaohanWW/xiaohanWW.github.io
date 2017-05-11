@@ -1,26 +1,24 @@
 ---
 layout:     post
-title:      "下一代 Web 应用模型 —— Progressive Web App"
-subtitle:   "The Next Generation Application Model For The Web - Progressive Web App"
-date:       2017-02-09 12:00:00
-author:     "Hux"
+title:      "just is a test"
+subtitle:   "xxx"
+date:       2017-05-11 16:25:00
+author:     "xiaohan"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 前端开发
-    - JavaScript
-    - PWA
+    - iOS
 ---
 
 
 
-> 本文首发于[《程序员》](http://geek.csdn.net/news/detail/135595)，发布于 [Hux Blog](https://huangxuan.me)、[前端外刊评论](https://zhuanlan.zhihu.com/FrontendMagazine)，转载请保留链接 ;)
+> 本文发布于 [xiaohan Blog](https://xiaohanWW.github.io) 转载请保留链接
 
 
-## 下一代 Web 应用？
+## String 和 NSString
 
-近年来，Web 应用在整个软件与互联网行业承载的责任越来越重，软件复杂度和维护成本越来越高，Web 技术，尤其是 Web 客户端技术，迎来了爆发式的发展。
+
 
 包括但不限于基于 Node.js 的前端工程化方案；诸如 Webpack、Rollup 这样的打包工具；Babel、PostCSS 这样的转译工具；TypeScript、Elm 这样转译至 JavaScript 的编程语言；React、Angular、Vue 这样面向现代 web 应用需求的前端框架及其生态，也涌现出了像[同构 JavaScript][1]与[通用 JavaScript 应用][2]这样将服务器端渲染（Server-side Rendering）与单页面应用模型（Single-page App）结合的 web 应用架构方式，可以说是百花齐放。
 
